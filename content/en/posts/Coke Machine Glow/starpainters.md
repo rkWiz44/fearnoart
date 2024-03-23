@@ -1,7 +1,7 @@
 ---
 title: Starpainters
-image: /uploads/photos/bricks2.jpg
-date: 2023-09-14
+image: /uploads/photos/startpainters.jpg
+date: TBD
 tags:
   - myth
   - national identity
