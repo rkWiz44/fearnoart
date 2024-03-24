@@ -1,13 +1,13 @@
 ---
 title: Starpainters
-image: /uploads/photos/startpainters.jpg
-date: TBD
+image: /uploads/starpainters1.png
+date: 2024-03-22
 tags:
   - myth
   - national identity
 ---
 
-{{< audio "/uploads/audio/jamming.mp3" >}}
+
 
 {{< tabs >}}
 
