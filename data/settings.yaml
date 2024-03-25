@@ -1,9 +1,9 @@
 favicon_image: 
-sticky_header: true
+sticky_header: false
 customcursor: true
 intersectionobserver: true
 filter_has_numbers: true
-page_size: 6
+page_size: 10
 preheader: 
   active: false
   is_light: true

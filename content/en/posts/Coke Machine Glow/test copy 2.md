@@ -1,13 +1,14 @@
 ---
-title: Starpainters4
-image: /uploads/starpainters1.png
+title: Starpainters1
+image: /uploads/vaccinationscar.png
 date: 2024-03-22
 tags:
   - myth
   - national identity
 ---
 
-
+<p>Song of The Week: Vacinnation Scar</p><lb>
+<p>Album: In Between Evolution</p><lb>
 
 {{< tabs >}}
 

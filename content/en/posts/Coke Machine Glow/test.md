@@ -1,5 +1,5 @@
 ---
-title: Starpainters4
+title: Starpainters
 image: /uploads/starpainters1.png
 date: 2024-03-22
 tags:

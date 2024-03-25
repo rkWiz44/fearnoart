@@ -1,14 +1,28 @@
 ---
 title: Home
-url: /blog/
+
 ---
+
+
+{{< brick_wide >}}
+
+
+
+
+
+<h3>"You see the dead art and you fear your reflection</h3>
+<h3>Fear no art and you fear no reflection"</h3>
+<h1><span style="color: orange;">{THE TRAGICALLY HIP}</span></h1>
+
+
+{{< /brick_wide >}}
+
 {{< brick_posts >}}
 
 
 
-> This is a basic blockquote. It usually gets some default styling from your Hugo theme.
+
 
 
 
 {{< /brick_posts >}}
-{{< brick_cta >}}{{< /brick_cta >}}

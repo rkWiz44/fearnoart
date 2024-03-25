@@ -33,10 +33,7 @@
                             </div>
                         </div>
                         {{ end }}
-                        <div class="summary">
-                            <p>{{ substr .Summary 0 190 | safeHTML }}...</p>
-                            <p><a href="{{ .RelPermalink }}" class="button ghost smaller">{{ i18n "Read more" }}</a></p>
-                        </div>
+                       
                 </li>
             {{ end }}
             <li class="placeholder"></li>

@@ -1,6 +1,6 @@
 ---
 title: 11th Fret
-image: /uploads/photos/11thfret.jpg
+Image: /uploads/starpainters1.png
 date: TBD
 tags: 
         - love

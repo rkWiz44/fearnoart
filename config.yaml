@@ -14,8 +14,4 @@ languages:
     contentDir: content/en
     weight: 1
     disabled: false
-  nl:
-    languageName: Nederlands
-    contentDir: content/nl
-    weight: 2
-    disabled: true
+ 

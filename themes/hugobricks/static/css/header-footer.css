@@ -27,14 +27,14 @@
 /* header
 /*------------------------*/
 
-header {position: absolute; background: rgb(0, 0, 0); z-index: 9; width: 100%;}
-header > .container {padding-top: 0rem; padding-bottom: -1rem; position: relative;}
+header {position: absolute; background: transparent !important; z-index: 9; width: 100%;}
+header > .container {padding-top: 0rem; padding-bottom: 1rem; position: relative;}
 header.sticky {box-shadow: 0 0 0.5rem rgba(0,0,0,0.1); background: rgb(0, 0, 0); position: fixed; top: 0;}
 header.sticky > .container {padding-top: 0.75rem; padding-bottom: 0.75rem;}
-header a {text-decoration: none;}
+header a {text-decoration: none; padding-top: 4rem;}
 header ul {display: flex; justify-content: flex-end; gap: 2rem; margin: 0;}
 header ul li {list-style: none; position: relative;}
-header nav > ul > li a {font-weight: bold; color: var(--textDark); padding: 0.80rem 0 0.65rem 0; display: block; white-space: nowrap;}
+header nav > ul > li a {font size: 9rem; color: var(--textDark); padding: 1.80rem 0 1.65rem 0; display: block; white-space: nowrap;}
 header nav > ul > li::after {
     content: "";
     position: absolute;
@@ -87,8 +87,8 @@ header nav > ul > li.haschildren > a::after {
 header > .container {display: flex; align-items: center;}
 header > .container > div {flex: 2; text-align: center;}
 header > .container > div:first-child {flex: 1; text-align: left;}
-header > .container.has_cta > div:nth-child(3) {flex: 1; text-align: right;}
-header > .container.has_cta ul {justify-content: center;}
+header > .container.has_cta > div:nth-child(3) {flex: 0.3; text-align: right;}
+header > .container.has_cta ul {justify-content: right;}
 header + section.hasbackgroundcolor {margin-top: 0;}
 header + section:not(.bgimage),
 body.transparent_header header + section.bgimage .container {padding-top: 11rem!important;}

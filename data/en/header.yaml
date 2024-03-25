@@ -1,18 +1,26 @@
-logo_image: /uploads/branding/logo1.svg
+logo_image: /uploads/logo3.png
 logo_subtitle:
 mobile_view_width: 1000
 menuitems:
      
-  - title: Unofficial Guides
+  - title: the words 
     link: /docs/
     items: 
       - title: The Tragically Hip
         link: /docs/the-hip
       - title: Gord Downie
         link: /docs/gord-downie/
-  - title: Blog
+  - title: the works  
     link: /blog/
+  - title: the legacy
+    link: /blog/
+  - title: the union
+    link: /blog/
+
+  
+
+  
 cta:
-  active: false
-  title: Get started
+  active: true
+  title: contribute
   link: /get-started/
