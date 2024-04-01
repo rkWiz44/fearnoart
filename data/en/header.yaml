@@ -21,6 +21,6 @@ menuitems:
 
   
 cta:
-  active: true
+  active: false
   title: contribute
   link: /get-started/

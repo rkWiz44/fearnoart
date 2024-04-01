@@ -5,6 +5,6 @@ intersectionobserver: true
 filter_has_numbers: true
 page_size: 10
 preheader: 
-  active: false
+  active: true
   is_light: true
-  text: 
+  text: You see the dead art and you fear your reflection. Fear no art and you fear no reflections ~Gord Downie
